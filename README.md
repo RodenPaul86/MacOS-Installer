@@ -13,7 +13,7 @@ To get the full installer, your Mac must be using the latest version of OS X El 
 
 The Mac App Store will be your main way to download macOS. You can download the following versions – 10.11, 10.12, 10.13, 10.14, 10.15, 11, 12, 13 & 14. Each link below will open up that version in the Mac App Store. All you need to do is, click the Download Button. When the download is finished, the installer will be in ```/Applications```.
 
-[MacOS Sonoma (14)](htts://)
+[MacOS Sonoma (14)](https://apps.apple.com/us/app/macos-sonoma/id6450717509)
 
 [MacOS Ventura (13)](https://apps.apple.com/us/app/macos-ventura/id1638787999)
 
