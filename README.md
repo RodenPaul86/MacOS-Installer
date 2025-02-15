@@ -1,6 +1,6 @@
 # MacOS Bootable Installer
 
-You can use an external drive or secondary volume as a startup disk from which to install the MacOS.
+You can use an external drive or secondary volume as a startup disk from which to install the Macintosh Operating System (MacOS).
 
 You don't need a bootable installer to upgrade macOS or reinstall macOS, but it can be useful if you want to install macOS on multiple computers without downloading the installer each time, or if you're unable to install a compatible macOS from the Finder or macOS Recovery.
 
