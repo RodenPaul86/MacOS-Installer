@@ -4,7 +4,7 @@ You can use an external drive or secondary volume as a startup disk from which t
 
 You don't need a bootable installer to upgrade macOS or reinstall macOS, but it can be useful if you want to install macOS on multiple computers without downloading the installer each time, or if you're unable to install a compatible macOS from the Finder or macOS Recovery.
 
-## What you need to create a bootable installer
+## What you need
 
 - USB flash drive or other secondary volume with at least 14GB of available storage, formatted as Mac OS Extended (Journaled).
 - Installer for OS X El Capitan or later.
