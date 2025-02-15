@@ -13,25 +13,25 @@ To get the full installer, your Mac must be using the latest version of OS X El 
 
 The Mac App Store will be your main way to download macOS. You can download the following versions – 10.11, 10.12, 10.13, 10.14, 10.15, 11, 12, 13 & 14. Each link below will open up that version in the Mac App Store. All you need to do is, click the Download Button. When the download is finished, the installer will be in ```/Applications```.
 
-[MacOS Sequoia (15)](https://apps.apple.com/us/app/macos-sequoia/id6596773750?mt=12)
+[Sequoia (15)](https://apps.apple.com/us/app/macos-sequoia/id6596773750?mt=12)
 
-[MacOS Sonoma (14)](https://apps.apple.com/us/app/macos-sonoma/id6450717509)
+[Sonoma (14)](https://apps.apple.com/us/app/macos-sonoma/id6450717509)
 
-[MacOS Ventura (13)](https://apps.apple.com/us/app/macos-ventura/id1638787999)
+[Ventura (13)](https://apps.apple.com/us/app/macos-ventura/id1638787999)
 
-[MacOS Monterey (12)](https://apps.apple.com/us/app/macos-monterey/id1576738294)
+[Monterey (12)](https://apps.apple.com/us/app/macos-monterey/id1576738294)
 
-[MacOS Big Sur (11)](https://apps.apple.com/us/app/macos-big-sur/id1526878132?mt=12)
+[Big Sur (11)](https://apps.apple.com/us/app/macos-big-sur/id1526878132?mt=12)
 
-[MacOS Catalina (10.15)](https://apps.apple.com/us/app/macos-catalina/id1466841314?mt=12)
+[Catalina (10.15)](https://apps.apple.com/us/app/macos-catalina/id1466841314?mt=12)
 
-[MacOS Mojave (10.14)](https://apps.apple.com/us/app/macos-mojave/id1398502828?mt=12)
+[Mojave (10.14)](https://apps.apple.com/us/app/macos-mojave/id1398502828?mt=12)
 
-[MacOS High Sierra (10.13)](https://apps.apple.com/us/app/macos-high-sierra/id1246284741)
+[High Sierra (10.13)](https://apps.apple.com/us/app/macos-high-sierra/id1246284741)
 
-[MacOS Sierra (10.12)](https://apps.apple.com/us/app/macos-sierra/id1127487414)
+[Sierra (10.12)](https://apps.apple.com/us/app/macos-sierra/id1127487414)
 
-[MacOS El Capitan (10.11)](https://apps.apple.com/us/app/os-x-el-capitan/id1147835434?mt=12)
+[El Capitan (10.11)](https://apps.apple.com/us/app/os-x-el-capitan/id1147835434?mt=12)
 
 ## Use Terminal to create the bootable installer
 
