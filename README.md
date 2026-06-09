@@ -13,6 +13,8 @@ To get the full installer, your Mac must be using the latest version of OS X El 
 
 The Mac App Store will be your main way to download macOS. You can download the following versions – 10.11, 10.12, 10.13, 10.14, 10.15, 11, 12, 13 & 14. Each link below will open up that version in the Mac App Store. All you need to do is, click the Download Button. When the download is finished, the installer will be in ```/Applications```.
 
+[Tahoe (26) use "Software Update" in Settings](https://support.apple.com/en-us/108382)
+
 [Sequoia (15)](https://apps.apple.com/us/app/macos-sequoia/id6596773750?mt=12)
 
 [Sonoma (14)](https://apps.apple.com/us/app/macos-sonoma/id6450717509)
@@ -50,11 +52,15 @@ The Mac App Store will be your main way to download macOS. You can download the 
 <li> When the Terminal says that it's done, the volume will have the same name as the installer you downloaded, such as Install macOS Ventura. You can now quit Terminal and eject the volume. </li>
 </ol>
 
-## Commands
+## Commands (Terminal)
 
 Depending on which macOS you downloaded, enter one of the following commands in Terminal as instructed above.
 If your Mac is using macOS Sierra or earlier, the command should conclude with ```--applicationpath``` followed by the appropriate installer path, as shown in the command below for El Capitan.
 
+### Tahoe 
+```
+softwareupdate --fetch-full-installer --full-installer-version [number]
+```
 ### Sequoia
 ```
 sudo /Applications/Install\ macOS\ Sequoia.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
