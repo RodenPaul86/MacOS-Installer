@@ -52,7 +52,7 @@ The Mac App Store will be your main way to download macOS. You can download the 
 <li> When the Terminal says that it's done, the volume will have the same name as the installer you downloaded, such as Install macOS Ventura. You can now quit Terminal and eject the volume. </li>
 </ol>
 
-## Commands (Terminal)
+## Commands
 
 Depending on which macOS you downloaded, enter one of the following commands in Terminal as instructed above.
 If your Mac is using macOS Sierra or earlier, the command should conclude with ```--applicationpath``` followed by the appropriate installer path, as shown in the command below for El Capitan.
