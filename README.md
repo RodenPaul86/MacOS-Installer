@@ -11,9 +11,9 @@ You don't need a bootable installer to upgrade macOS or reinstall macOS, but it 
 
 To get the full installer, your Mac must be using the latest version of OS X El Capitan, the latest version of macOS Sierra, or any later version of macOS. Download from a Mac that is compatible with the macOS you're downloading.
 
-The Mac App Store will be your main way to download macOS. You can download the following versions – 10.11, 10.12, 10.13, 10.14, 10.15, 11, 12, 13 & 14. Each link below will open up that version in the Mac App Store. All you need to do is, click the Download Button. When the download is finished, the installer will be in ```/Applications```.
+The Mac App Store will be your main way to download macOS. You can download the following versions – 10.11, 10.12, 10.13, 10.14, 10.15, 11, 12, 13, 14 & 15. Each link below will open up that version in the Mac App Store. All you need to do is, click the Download Button. When the download is finished, the installer will be in ```/Applications```.
 
-[Tahoe (26) use "Software Update" in Settings](https://support.apple.com/en-us/108382)
+[Tahoe (26)](https://support.apple.com/en-us/108382), for this version Apple recommended "Software Update" in Mac OS Settings.
 
 [Sequoia (15)](https://apps.apple.com/us/app/macos-sequoia/id6596773750?mt=12)
 
